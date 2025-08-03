@@ -1,0 +1,2 @@
+Este es un proyecto simple en Java que simula un sistema de facturación básico a través de la terminal. Fue desarrollado como una actividad educativa para practicar conceptos fundamentales de programación orientada a objetos (POO) y el manejo de entrada/salida de datos en la consola.
+Una vez que el programa se esté ejecutando, simplemente sigue las instrucciones que aparecen en la terminal. Se te pedirá que ingreses datos como el nombre del producto, la cantidad y el precio. Finalmente, el programa generará y mostrará una factura de ejemplo.
